@@ -2,8 +2,8 @@
 
 using namespace std;
 
-void printNum(int number){ cout<<number;}; //No debe d eir un ';'
-//void printNum(int number){ cout<<number;}
+void printNum(int number){ cout<<number;}; 
+
 
 int main()
 {
